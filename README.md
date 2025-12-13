@@ -1,4 +1,4 @@
-# 🗂️ Business Insights Decks
+## 🗂️ 🏛️ Executive Business Presentation Vault
 
 ---
 
@@ -23,7 +23,7 @@
 
 ## <span id="introduction">🌟 Introduction</span>  
 
-Welcome to the **Business Presentations Repository**, a carefully curated collection of **corporate-style PowerPoint decks** designed from my personal projects.  
+Welcome to the **Executive Business Presentation Vault**, a carefully curated collection of **corporate-style PowerPoint decks** designed from my personal projects.  
 This repository is not simply a storage of slides — it is a **professional showcase** where I translate technical work into **executive-ready communication**.  
 
 Here, you will find decks that demonstrate how **complex problems and solutions** can be narrated in a **clear, structured, and visually impactful** way.  
