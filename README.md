@@ -235,7 +235,7 @@ If you find these presentations useful or want to collaborate, feel free to conn
 
 🤝 *Thanks for visiting my profile!*  
 
-⭐ If you find this repository valuable, consider giving it a **Star** ⭐ on GitHub to support my work.  
+If you find this repository valuable, consider giving it a **Star** ⭐ on GitHub to support my work.  
 
 ---
 
