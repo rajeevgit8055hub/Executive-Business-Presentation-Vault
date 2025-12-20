@@ -226,7 +226,7 @@ This makes it highly relevant for **corporate, academic, and personal branding p
 
 ## <span id="contact">📬 Connect with Me</span>   
 
-If you find these presentations useful or want to collaborate, feel free to connect with me. I am always open to discussions, collaborations, or sharing ideas around data, storytelling, and communication.  
+If you find these presentations useful or want to collaborate, feel free to connect with me. I'm always open to discussions, collaborations, or sharing ideas around data, storytelling, and communication.  
 
 - 📧 **Email**: [rajeevtiwari8055@gmail.com](mailto:rajeevtiwari8055@gmail.com)  
 - 💻 **GitHub**: [github.com/rajeevgit8055hub](https://github.com/rajeevgit8055hub)  
