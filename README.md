@@ -121,10 +121,10 @@ In the workplace, technical expertise alone is not enough. The ability to **comm
 
 Specifically, it shows my ability to:  
 
-- 🔹 **Translate technical concepts** into clear, business-friendly insights  
-- 🔹 Present solutions in a **structured, professional format**  
-- 🔹 Highlight the **impact of projects**, not just the process  
-- 🔹 Build **stakeholder-ready decks** that inspire confidence  
+- **Translate technical concepts** into clear, business-friendly insights  
+- Present solutions in a **structured, professional format**  
+- Highlight the **impact of projects**, not just the process  
+- Build **stakeholder-ready decks** that inspire confidence  
 
 By combining analysis with communication, I demonstrate **end-to-end value** — from raw data to strategic business outcomes.  
 
